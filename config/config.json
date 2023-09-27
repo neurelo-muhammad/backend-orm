@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "m",
+    "password": "pwd",
+    "database": "neurelo-orm",
+    "dialect": "postgres",
+    "host": "127.0.0.1"
+  }
+}
